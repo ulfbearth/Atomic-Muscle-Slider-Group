@@ -603,5 +603,11 @@
         <Member name="(AM) Cross CoA Right LowerLeg Armor"/>
         <Member name="(AM) Cross CoA Sleeves"/>
         <Member name="(AM) El Men Underwear"/>
+        <Member name="(AM) Cowboy Lux - Jeans"/>
+        <Member name="(AM) Cowboy Lux - Poncho"/>
+        <Member name="(AM) Cowboy Lux - Revealing Cut"/>
+        <Member name="(AM) Cowboy Lux - Revealing Uncut"/>
+        <Member name="(AM) Cowboy Lux - Scarf"/>
+        <Member name="(AM) Cowboy Lux - Sexy"/>
     </Group>
 </SliderGroups>
