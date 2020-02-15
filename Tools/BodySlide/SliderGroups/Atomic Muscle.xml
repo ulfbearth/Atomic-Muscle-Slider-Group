@@ -632,5 +632,9 @@
         <Member name="(AM) Cross Strigidae Torso 01"/>
         <Member name="(AM) Cross Strigidae Torso 04"/>
         <Member name="(AM) Cross Strigidae Torso Skimpy"/>
+        <Member name="(AM) Harness Skimpy - Boots"/>
+        <Member name="(AM) Harness Skimpy - Cut"/>
+        <Member name="(AM) Harness Skimpy - Gloves"/>
+        <Member name="(AM) Harness Skimpy - Uncut"/>
     </Group>
 </SliderGroups>
