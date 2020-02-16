@@ -636,5 +636,21 @@
         <Member name="(AM) Harness Skimpy - Cut"/>
         <Member name="(AM) Harness Skimpy - Gloves"/>
         <Member name="(AM) Harness Skimpy - Uncut"/>
+        <Member name="(AM) Wasteland Dairy - Bloodpack Needle"/>
+        <Member name="(AM) Wasteland Dairy - Cum Beaker"/>
+        <Member name="(AM) Wasteland Dairy - Cum Milk Bottle"/>
+        <Member name="(AM) Wasteland Dairy - Cum Needle Pack"/>
+        <Member name="(AM) Wasteland Dairy - Cum Test Tube"/>
+        <Member name="(AM) Wasteland Dairy - Milk Bottles"/>
+        <Member name="(AM) Wasteland Dairy - Milk Bottles L"/>
+        <Member name="(AM) Wasteland Dairy - Milk Bottles R"/>
+        <Member name="(AM) Wasteland Dairy - Milk Needles"/>
+        <Member name="(AM) Wasteland Dairy - Milk Needles L"/>
+        <Member name="(AM) Wasteland Dairy - Milk Needles R"/>
+        <Member name="(AM) Wasteland Dairy - Pasties"/>
+        <Member name="(AM) Wasteland Dairy - Pasties L"/>
+        <Member name="(AM) Wasteland Dairy - Pasties R"/>
+        <Member name="(AM) Wasteland Dairy - Test Tube Cut"/>
+        <Member name="(AM) Wasteland Dairy - Test Tube Uncut"/>
     </Group>
 </SliderGroups>
