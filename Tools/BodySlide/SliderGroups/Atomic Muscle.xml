@@ -652,5 +652,7 @@
         <Member name="(AM) Wasteland Dairy - Pasties R"/>
         <Member name="(AM) Wasteland Dairy - Test Tube Cut"/>
         <Member name="(AM) Wasteland Dairy - Test Tube Uncut"/>
+        <Member name="(AM) Wasteland Socks - Left"/>
+        <Member name="(AM) Wasteland Socks - Right"/>
     </Group>
 </SliderGroups>
