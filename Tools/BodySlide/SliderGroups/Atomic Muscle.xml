@@ -663,5 +663,10 @@
         <Member name="(AM) SavrenX El Cazador Coat"/>
         <Member name="(AM) SavrenX El Cazador Skimpy Armor"/>
         <Member name="(AM) SavrenX El Cazador Skimpy Gloves"/>
+        <Member name="(AM) Navy Uniform - Outfit"/>
+        <Member name="(AM) Navy Uniform - Outfit 1stP"/>
+        <Member name="(AM) Sos Drifter Gloves"/>
+        <Member name="(AM) Sos Drifter Outfit"/>
+        <Member name="(AM) Sos Drifter Outfit 1stP"/>
     </Group>
 </SliderGroups>
