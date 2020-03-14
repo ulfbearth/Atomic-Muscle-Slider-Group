@@ -691,5 +691,15 @@
         <Member name="(AM) NewerMind Nano OPS Gear"/>
         <Member name="(AM) NewerMind Nano Suit"/>
         <Member name="(AM)Navy Uniform - Outfit"/>
+        <Member name="(AM) MKX Kano Left Arm Armor"/>
+        <Member name="(AM) MKX Kano Left FullArm Armor"/>
+        <Member name="(AM) MKX Kano Left LowerArm Armor"/>
+        <Member name="(AM) MKX Kano Mask"/>
+        <Member name="(AM) MKX Kano Outfit"/>
+        <Member name="(AM) MKX Kano Outfit - Boots"/>
+        <Member name="(AM) MKX Kano Outfit - Pants Only"/>
+        <Member name="(AM) MKX Kano Right Arm Armor"/>
+        <Member name="(AM) MKX Kano Right FullArm Armor"/>
+        <Member name="(AM) MKX Kano Right LowerArm Armor"/>
     </Group>
 </SliderGroups>
