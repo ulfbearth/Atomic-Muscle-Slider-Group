@@ -701,5 +701,11 @@
         <Member name="(AM) MKX Kano Right Arm Armor"/>
         <Member name="(AM) MKX Kano Right FullArm Armor"/>
         <Member name="(AM) MKX Kano Right LowerArm Armor"/>
+        <Member name="(AM) Male Tomb Raider"/>
+        <Member name="(AM) Male Tomb Raider - Gloves"/>
+        <Member name="(AM) Male Tomb Raider - Shirtless"/>
+        <Member name="(AM) Male Tomb Raider - Skimpy Cut"/>
+        <Member name="(AM) Male Tomb Raider - Skimpy Uncut"/>
+        <Member name="(AM) Male Tomb Raider Boots"/>
     </Group>
 </SliderGroups>
