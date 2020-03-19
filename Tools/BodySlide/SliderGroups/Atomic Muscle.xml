@@ -709,5 +709,13 @@
         <Member name="(AM) Male Tomb Raider Boots"/>
         <Member name="(AM) NewerMind Nano Suit 1stP"/>
         <Member name="(AM) Stalker Outfit"/>
+        <Member name="(AM) Stalker Outfit - Gloves"/>
+        <Member name="(AM) Stalker Outfit - Gloves Fingerless"/>
+        <Member name="(AM) Stalker Outfit - Hood"/>
+        <Member name="(AM) Stalker Outfit - Jacket"/>
+        <Member name="(AM) Stalker Outfit - Jacket 1stP"/>
+        <Member name="(AM) Stalker Outfit - Jacket No Spikes"/>
+        <Member name="(AM) Stalker Outfit - Kufia"/>
+        <Member name="(AM) Stalker Outfit 1stP"/>
     </Group>
 </SliderGroups>
