@@ -723,5 +723,30 @@
         <Member name="[AM Vanilla] Laundered Longuewear 1stP"/>
         <Member name="(AM) Courser Power Suit"/>
         <Member name="(AM) Courser Powersuit Skimpy"/>
+        <Member name="(AM) CommonWealth 2 Short"/>
+        <Member name="(AM) CommonWealth 2 Short NoSash"/>
+        <Member name="(AM) CommonWealth 2 Short Shirtless"/>
+        <Member name="(AM) CommonWealth 2 Short Shirtless NoSash"/>
+        <Member name="(AM) CommonWealth Short"/>
+        <Member name="(AM) CommonWealth Short - Top"/>
+        <Member name="(AM) CommonWealth Short - Top 2"/>
+        <Member name="(AM) CommonWealth Short - Top Sniper"/>
+        <Member name="(AM) CommonWealth Short - Top Transparent"/>
+        <Member name="(AM) CommonWealth Short - Top VG"/>
+        <Member name="(AM) CommonWealth Short NoShash"/>
+        <Member name="(AM) CommonWealth Short Shirtless"/>
+        <Member name="(AM) CommonWealth Short Shirtless NoSash"/>
+        <Member name="(AM) CommonWealth Short Transparent"/>
+        <Member name="(AM) CommonWealth Short Transparent NoSash"/>
+        <Member name="(AM) CommonWealth Short Transparent Shirtless"/>
+        <Member name="(AM) CommonWealth Short Transparent Shirtless NoSash"/>
+        <Member name="(AM) CommonWealth Short VG"/>
+        <Member name="(AM) CommonWealth Short VG NoSash"/>
+        <Member name="(AM) CommonWealth Short VG Shirtless"/>
+        <Member name="(AM) CommonWealth Short VG Shirtless NoSash"/>
+        <Member name="(AM) CommonWealth Sniper Short"/>
+        <Member name="(AM) CommonWealth Sniper Short NoSash"/>
+        <Member name="(AM) CommonWealth Sniper Short Shirtless"/>
+        <Member name="(AM) CommonWealth Sniper Short Shirtless NoSash"/>
     </Group>
 </SliderGroups>
