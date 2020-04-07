@@ -748,5 +748,12 @@
         <Member name="(AM) CommonWealth Sniper Short NoSash"/>
         <Member name="(AM) CommonWealth Sniper Short Shirtless"/>
         <Member name="(AM) CommonWealth Sniper Short Shirtless NoSash"/>
+        <Member name="(AM) ASA - Boot Stocking"/>
+        <Member name="(AM) ASA - Shirt"/>
+        <Member name="(AM) ASA - Shorts"/>
+        <Member name="(AM) ASA - Sneakers"/>
+        <Member name="(AM) ASA - Thong"/>
+        <Member name="(AM) ASA - Thong AAF"/>
+        <Member name="(AM) ASA - Top"/>
     </Group>
 </SliderGroups>
