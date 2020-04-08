@@ -755,5 +755,14 @@
         <Member name="(AM) ASA - Thong"/>
         <Member name="(AM) ASA - Thong AAF"/>
         <Member name="(AM) ASA - Top"/>
+        <Member name="(AM) Tough Traveller Arm L"/>
+        <Member name="(AM) Tough Traveller Arm R"/>
+        <Member name="(AM) Tough Traveller Outfit"/>
+        <Member name="(AM) Tough Traveller Outfit Shirtless"/>
+        <Member name="(AM) Tough Traveller Robo Leg"/>
+        <Member name="(AM) Tough Traveller Robo Leg Shirtless"/>
+        <Member name="(AM) Tough Traveller Vest"/>
+        <Member name="(AM) Tough Traveller VestPlate"/>
+        <Member name="(AM) Wasteland Dairy - Moo Outfit"/>
     </Group>
 </SliderGroups>
