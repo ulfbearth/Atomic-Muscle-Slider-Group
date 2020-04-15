@@ -767,5 +767,10 @@
         <Member name="(AM) Tough Traveller Necklace"/>
         <Member name="(AM) Tough Traveller WristBand Left"/>
         <Member name="(AM) Tough Traveller WristBand Right"/>
+        <Member name="(AM) Cross 2077 - Gloves"/>
+        <Member name="(AM) Cross 2077 - Jacket"/>
+        <Member name="(AM) Cross 2077 - Jacket no Collar"/>
+        <Member name="(AM) Cross 2077 - Outfit Boots"/>
+        <Member name="(AM) Cross 2077 - Outfit Sneakers"/>
     </Group>
 </SliderGroups>
