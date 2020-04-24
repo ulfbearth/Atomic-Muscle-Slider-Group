@@ -787,5 +787,8 @@
         <Member name="(AM) Mojave Manhunter - 12 Duster Sleeveless"/>
         <Member name="(AM) Mojave Manhunter - 13 Duster Sleeveless Short"/>
         <Member name="(AM) Mojave Manhunter - 14 Gloves"/>
+        <Member name="(AM) Latex Suit - Body Cut"/>
+        <Member name="(AM) Latex Suit - Body Uncut"/>
+        <Member name="(AM) Latex Suit - Body1stp"/>
     </Group>
 </SliderGroups>
