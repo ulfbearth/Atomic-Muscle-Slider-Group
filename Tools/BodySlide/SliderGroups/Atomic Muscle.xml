@@ -797,5 +797,22 @@
         <Member name="(AM) Prostitute Outfit - Spiked Collar"/>
         <Member name="(AM) Prostitute Outfit - Wristbands Left"/>
         <Member name="(AM) Prostitute Outfit - Wristbands Right"/>
+        <Member name="(AM) Wasteland Ronin -  Arm Left ArmGuard"/>
+        <Member name="(AM) Wasteland Ronin -  Arm Left Sleeve"/>
+        <Member name="(AM) Wasteland Ronin -  Arm Left Sleeve + ArmGuard"/>
+        <Member name="(AM) Wasteland Ronin -  Arm Right ArmGuard"/>
+        <Member name="(AM) Wasteland Ronin -  Arm Right Sleeves"/>
+        <Member name="(AM) Wasteland Ronin -  Arm Right Sleeves+ArmGuard"/>
+        <Member name="(AM) Wasteland Ronin -  Chest Armor Tier 1"/>
+        <Member name="(AM) Wasteland Ronin -  Chest Armor Tier 2 + Shoulder"/>
+        <Member name="(AM) Wasteland Ronin -  Chest Armor Tier 2 + Skirt"/>
+        <Member name="(AM) Wasteland Ronin -  Chest Armor Tier 3 Full"/>
+        <Member name="(AM) Wasteland Ronin -  Leg Guards"/>
+        <Member name="(AM) Wasteland Ronin -  Shin Guards"/>
+        <Member name="(AM) Wasteland Ronin -  Underarmor  Hakama"/>
+        <Member name="(AM) Wasteland Ronin -  Underarmor  Hakama Sleeveless"/>
+        <Member name="(AM) Wasteland Ronin - Hands"/>
+        <Member name="(AM) Wasteland Ronin - Hands Left"/>
+        <Member name="(AM) Wasteland Ronin - Hands Right"/>
     </Group>
 </SliderGroups>
