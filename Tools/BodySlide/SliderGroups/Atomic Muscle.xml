@@ -815,5 +815,8 @@
         <Member name="(AM) Wasteland Ronin - Hands Left"/>
         <Member name="(AM) Wasteland Ronin - Hands Right"/>
         <Member name="(AM) Battle Towel"/>
+        <Member name="(AM) Cockcage"/>
+        <Member name="(AM) Cockcage Cut"/>
+        <Member name="(AM) Cockcage Uncut"/>
     </Group>
 </SliderGroups>
