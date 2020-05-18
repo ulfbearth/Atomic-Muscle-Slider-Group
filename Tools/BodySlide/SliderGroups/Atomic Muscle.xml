@@ -818,5 +818,20 @@
         <Member name="(AM) Cockcage"/>
         <Member name="(AM) Cockcage Cut"/>
         <Member name="(AM) Cockcage Uncut"/>
+        <Member name="(AM) The Reaper - Armor"/>
+        <Member name="(AM) The Reaper - Armor Bones ArmL"/>
+        <Member name="(AM) The Reaper - Armor Bones ArmR"/>
+        <Member name="(AM) The Reaper - Armor Bones LLeg"/>
+        <Member name="(AM) The Reaper - Armor Bones RLeg"/>
+        <Member name="(AM) The Reaper - Bracers"/>
+        <Member name="(AM) The Reaper - Groin"/>
+        <Member name="(AM) The Reaper - Hands"/>
+        <Member name="(AM) The Reaper - Loincloth Cut"/>
+        <Member name="(AM) The Reaper - Loincloth Uncut"/>
+        <Member name="(AM) The Reaper - Rags"/>
+        <Member name="(AM) The Reaper - Remnant"/>
+        <Member name="(AM) The Reaper - Shoes"/>
+        <Member name="(AM) The Reaper - Spear"/>
+        <Member name="(AM) The Reaper - Spine"/>
     </Group>
 </SliderGroups>
