@@ -860,5 +860,156 @@
         <Member name="(AM) Freeboter - Outfit"/>
         <Member name="(AM) Freeboter - Outfit No Tank"/>
         <Member name="(AM) Freeboter - Outfit Pants Only"/>
+        <Member name="(AM Deathclaw) Body - Cut"/>
+        <Member name="(AM Deathclaw) Body - NeverNude"/>
+        <Member name="(AM Deathclaw) Body - Uncut"/>
+        <Member name="(AM Deathclaw) Loincloth"/>
+        <Member name="(AM) Fabulous Silver Shroud 1stP"/>
+        <Member name="(AM) FO76 - Lumberjack"/>
+        <Member name="(AM) FO76 - Lumberjack 1stP"/>
+        <Member name="(AM) FO76 - Lumberjack Boots"/>
+        <Member name="(AM) FO76 - Lumberjack Shirtless"/>
+        <Member name="(AM) FO76 - RobCo"/>
+        <Member name="(AM) FO76 - RobCo 1stP"/>
+        <Member name="(AM) FO76 - RobCo Sandals"/>
+        <Member name="(AM) FO76 - RobCo Shirtless"/>
+        <Member name="(AM) FO76 - Steelworker"/>
+        <Member name="(AM) FO76 - Steelworker 1stP"/>
+        <Member name="(AM) FO76 - Steelworker Gloves"/>
+        <Member name="(AM) FO76 - Steelworker Shirtless"/>
+        <Member name="(AM) FO76 - Steelworker Shoes"/>
+        <Member name="(AM) Mercenary Pack - B90 Armor"/>
+        <Member name="(AM) Mercenary Pack - B90 Armor 1stP"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Chest Piece = Heavy"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Chest Piece = Light"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Chest Piece = Medium"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Left Arm = Heavy"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Left Arm = Light"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Left Arm = Medium"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Leg Left = Heavy"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Leg Left = Light"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Leg Left = Medium"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Leg Right = Heavy"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Leg Right = Light"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Leg Right = Medium"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Right Arm = Heavy"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Right Arm = Light"/>
+        <Member name="(AM) Mercenary Pack - Merc Armor Right Arm = Medium"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Combat Jacket A B"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Combat Jacket A B - Gloves"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Combat Jacket A B 1stP"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Combat Shirt A"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Combat Shirt B"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Combat Shirt C"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Gunner Heavy Long Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Gunner Heavy Long Sleeve 1stP"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Gunner Heavy Short Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Gunner Heavy Short Sleeve 1stp"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Gunner Light Long Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Gunner Light Short Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Gunner Medium Long Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Gunner Medium Short Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Heavy Long Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Heavy Long Sleeve 1stP"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Heavy Short Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Heavy Short Sleeve 1stp"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Light Long Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Light Long Sleeve 1stP"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Light Short Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Medium Long Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Mercenary Outfit Medium Short Sleeve"/>
+        <Member name="(AM) Mercenary Pack - Reacher Jacket"/>
+        <Member name="(AM) Mercenary Pack - Reacher Jacket 1stP"/>
+        <Member name="(AM) Mercenary Pack - Reacher.Scavenged.Wastelader Gloves"/>
+        <Member name="(AM) Mercenary Pack - Rebel Gloves"/>
+        <Member name="(AM) Mercenary Pack - Rebel Jacket"/>
+        <Member name="(AM) Mercenary Pack - Rebel Jacket = Cutoff Sleeves"/>
+        <Member name="(AM) Mercenary Pack - Rebel Jacket 1stP"/>
+        <Member name="(AM) Mercenary Pack - Rebel Outfit"/>
+        <Member name="(AM) Mercenary Pack - Rebel Outfit 1stP"/>
+        <Member name="(AM) Mercenary Pack - Rebel Outfit WG"/>
+        <Member name="(AM) Mercenary Pack - Rebel Outfit WG 1stP"/>
+        <Member name="(AM) Mercenary Pack - Rebel Shirt"/>
+        <Member name="(AM) Mercenary Pack - Rebel Shirt 1stP"/>
+        <Member name="(AM) Mercenary Pack - Scavenged NCR 1stP"/>
+        <Member name="(AM) Mercenary Pack - Scavenged NCR Armor"/>
+        <Member name="(AM) Mercenary Pack - Scavenged NCR Armor All"/>
+        <Member name="(AM) Mercenary Pack - Scavenged NCR Longcoat"/>
+        <Member name="(AM) Mercenary Pack - Wastelander Coat  Scarf"/>
+        <Member name="(AM) Mercenary Pack - Wastelander Coat = With Pauldron"/>
+        <Member name="(AM) Mercenary Pack - Wastelander Coat = Without Pauldron"/>
+        <Member name="(AM) Mercenary Pack - Wastelander Coat 1stP"/>
+        <Member name="(AM) MLA - Arm Left"/>
+        <Member name="(AM) MLA - Arm Left 1stP"/>
+        <Member name="(AM) MLA - Arm Right"/>
+        <Member name="(AM) MLA - Arm Right 1stP"/>
+        <Member name="(AM) MLA - Boots"/>
+        <Member name="(AM) MLA - Codpiece"/>
+        <Member name="(AM) MLA - Leg Left"/>
+        <Member name="(AM) MLA - Leg Right"/>
+        <Member name="(AM) MLA - Spikes"/>
+        <Member name="(AM) MLA - Spikes 1stP"/>
+        <Member name="(AM) MLA - Studs"/>
+        <Member name="(AM) MLA - Studs 1stP"/>
+        <Member name="(AM) MLA - Torso Heavy"/>
+        <Member name="(AM) MLA - Torso Lite"/>
+        <Member name="(AM) MLA - Torso Mid"/>
+        <Member name="(AM) MLU - Boots Body"/>
+        <Member name="(AM) MLU - Boots Kellog"/>
+        <Member name="(AM) MLU - Boots Pastor"/>
+        <Member name="(AM) MLU - Boots Railroad"/>
+        <Member name="(AM) MLU - Boots Ronnie"/>
+        <Member name="(AM) MLU - Flannel Muscle"/>
+        <Member name="(AM) MLU - Flannel Muscle Untucked"/>
+        <Member name="(AM) MLU - Flannel Shirt"/>
+        <Member name="(AM) MLU - Flannel Shirt 1stP"/>
+        <Member name="(AM) MLU - Flannel Shirt Tucked"/>
+        <Member name="(AM) MLU - Jacket Flannel"/>
+        <Member name="(AM) MLU - Jacket Leather"/>
+        <Member name="(AM) MLU - Jacket Leather 1stP"/>
+        <Member name="(AM) MLU - Jacket T-Shirt"/>
+        <Member name="(AM) MLU - Jacket Vest"/>
+        <Member name="(AM) MLU - Jacket Vest Flannel"/>
+        <Member name="(AM) MLU - Jacket Vest T-shirt"/>
+        <Member name="(AM) MLU - Shirt Muscle"/>
+        <Member name="(AM) MLU - Shirt Muscle Untucked"/>
+        <Member name="(AM) MLU - T-Shirt"/>
+        <Member name="(AM) MLU - T-Shirt Tucked"/>
+        <Member name="(AM) Resident Evil Pack - Albert Wesker S.T.A.R.S"/>
+        <Member name="(AM) Resident Evil Pack - Barry Burton S.T.A.R.S"/>
+        <Member name="(AM) Resident Evil Pack - Chris Redfield S.T.A.R.S"/>
+        <Member name="(AM) Resident Evil Pack - Chris Redfield Vendetta"/>
+        <Member name="(AM) SOS - Greaser Jacket M"/>
+        <Member name="(AM) SOS - The Pistolero"/>
+        <Member name="(AM) SOS - US Cavalry"/>
+        <Member name="(AM) SOS - Utility Coveralls"/>
+        <Member name="(AM) SOS - Utility Coveralls Gloves"/>
+        <Member name="(AM) ToxicRaider - Arm Heavy Left"/>
+        <Member name="(AM) ToxicRaider - Arm Heavy Right"/>
+        <Member name="(AM) ToxicRaider - Arm Lite Left"/>
+        <Member name="(AM) ToxicRaider - Arm Lite Right"/>
+        <Member name="(AM) ToxicRaider - Arm Mid Left"/>
+        <Member name="(AM) ToxicRaider - Arm Mid Right"/>
+        <Member name="(AM) ToxicRaider - Chest Heavy"/>
+        <Member name="(AM) ToxicRaider - Chest Lite"/>
+        <Member name="(AM) ToxicRaider - Chest Mid"/>
+        <Member name="(AM) ToxicRaider - Gloves"/>
+        <Member name="(AM) ToxicRaider - Leather"/>
+        <Member name="(AM) ToxicRaider - Leg Heavy Left"/>
+        <Member name="(AM) ToxicRaider - Leg Heavy Right"/>
+        <Member name="(AM) ToxicRaider - Leg Lite Left"/>
+        <Member name="(AM) ToxicRaider - Leg Lite Right"/>
+        <Member name="(AM) ToxicRaider - Leg Mid Left"/>
+        <Member name="(AM) ToxicRaider - Leg Mid Right"/>
+        <Member name="(AM) Wasteland Ranger - Armor"/>
+        <Member name="(AM) Wasteland Ranger - Armor 1stP"/>
+        <Member name="(AM) Wasteland Ranger - Backpack"/>
+        <Member name="(AM) Wasteland Ranger - Gloves"/>
+        <Member name="(AM) Wasteland Ranger - Gloves 1stP"/>
+        <Member name="(AM) Wasteland Ranger - Gun Harness"/>
+        <Member name="(AM) Wasteland Ranger - Outfit"/>
+        <Member name="(AM) Wasteland Ranger - Outfit 1stP"/>
+        <Member name="(AM) Wasteland Ranger - Outfitw Shirtless"/>
+        <Member name="(AM) Wasteland Ranger - Toolkit"/>
     </Group>
 </SliderGroups>
