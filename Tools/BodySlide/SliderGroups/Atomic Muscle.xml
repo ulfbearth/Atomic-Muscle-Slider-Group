@@ -1011,5 +1011,13 @@
         <Member name="(AM) Wasteland Ranger - Outfit 1stP"/>
         <Member name="(AM) Wasteland Ranger - Outfitw Shirtless"/>
         <Member name="(AM) Wasteland Ranger - Toolkit"/>
+        <Member name="(AM) GS Outfits - Bikini01"/>
+        <Member name="(AM) GS Outfits - Boots01"/>
+        <Member name="(AM) GS Outfits - Boots02"/>
+        <Member name="(AM) GS Outfits - Gloves01"/>
+        <Member name="(AM) GS Outfits - Gloves02"/>
+        <Member name="(AM) GS Outfits - Shirt01"/>
+        <Member name="(AM) GS Outfits - Shirtless01"/>
+        <Member name="(AM) GS Outfits - TankTop01"/>
     </Group>
 </SliderGroups>
