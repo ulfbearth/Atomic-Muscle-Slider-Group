@@ -1019,5 +1019,8 @@
         <Member name="(AM) GS Outfits - Shirt01"/>
         <Member name="(AM) GS Outfits - Shirtless01"/>
         <Member name="(AM) GS Outfits - TankTop01"/>
+        <Member name="(AM) Faction Jocks - Jockstrap"/>
+        <Member name="(AM) Faction Jocks - Shoes"/>
+        <Member name="(AM) SavrenX El Cazador Gas Mask Glass Transparent"/>
     </Group>
 </SliderGroups>
