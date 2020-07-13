@@ -1,17 +1,6 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <SliderGroups>
     <Group name="Atomic Muscle">
-        <Member name="Atomic Muscle"/>
-        <Member name="Atomic Muscle - 1st Person Body"/>
-        <Member name="Atomic Muscle - 1st Person Hands"/>
-        <Member name="Atomic Muscle - Hands"/>
-        <Member name="Atomic Muscle NeverNude"/>
-        <Member name="Atomic Muscle - Equipable Penis (Cut)"/>
-        <Member name="Atomic Muscle - Equipable Penis (Uncut)"/>
-        <Member name="Atomic Muscle - NudeSuit (Cut)"/>
-        <Member name="Atomic Muscle - NudeSuit (Uncut)"/>
-        <Member name="Atomic Muscle (Cut)"/>
-        <Member name="Atomic Muscle (Uncut)"/>
         <Member name="[AM Vanilla] Army Fatigues"/>
         <Member name="[AM Vanilla] Army Fatigues 1stP"/>
         <Member name="[AM Vanilla] Athletic Gloves"/>
@@ -359,9 +348,6 @@
         <Member name="[AM Vanilla] Vault-Tec Security Armor"/>
         <Member name="[AM Vanilla] Winter Jacket and Jeans"/>
         <Member name="[AM Vanilla] Winter Jacket and Jeans 1stP"/>
-        <Member name="Atomic Muscle (Cut) + Hands"/>
-        <Member name="Atomic Muscle (Uncut) + Hands"/>
-        <Member name="Atomic Muscle NeverNude + Hands"/>
         <Member name="[AM DLC NW] Colorful Undergarments"/>
         <Member name="[AM DLC NW] Cowhide Western Outfit"/>
         <Member name="[AM DLC NW] Cowhide Western Outfit 1stP"/>
@@ -1019,5 +1005,24 @@
         <Member name="(AM) GS Outfits - Shirt01"/>
         <Member name="(AM) GS Outfits - Shirtless01"/>
         <Member name="(AM) GS Outfits - TankTop01"/>
+        <Member name="(AM) Faction Jocks - Jockstrap"/>
+        <Member name="(AM) Faction Jocks - Shoes"/>
+        <Member name="(AM) SavrenX El Cazador Gas Mask Glass Transparent"/>
+        <Member name="(AM Deathclaw) Body"/>
+        <Member name="(AM) Cowboy Lux - Revealing"/>
+        <Member name="(AM) Harness Skimpy"/>
+        <Member name="(AM) Latex Suit - Body"/>
+        <Member name="(AM) Male Tomb Raider - Skimpy"/>
+        <Member name="(AM) The Reaper - Loincloth"/>
+        <Member name="Atomic Muscle"/>
+        <Member name="Atomic Muscle - 1st Person Body"/>
+        <Member name="Atomic Muscle - Equipable Penis"/>
+        <Member name="Atomic Muscle - Hands"/>
+        <Member name="Atomic Muscle - NudeSuit"/>
+        <Member name="Atomic Muscle + Hands"/>
+        <Member name="Atomic Muscle Full Reference"/>
+        <Member name="Atomic Muscle NeverNude"/>
+        <Member name="Atomic Muscle NeverNude + Hands"/>
+        <Member name="Atomic Muscle NeverNude Full Reference"/>
     </Group>
 </SliderGroups>
